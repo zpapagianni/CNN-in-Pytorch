@@ -1,7 +1,7 @@
 # Brain Tumor Classification-CNN using Pytorch
 
 ## Description
-This repository contains a jupyter notebook that I used to analyse the data for [Brain Tumor Detection](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection).
+This repository contains a jupyter notebook that I used to analyse the data for [Brain Tumor MRI Image Classification](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection).
 It consists of MRI scans of two classes:
 
 * YES - tumor, encoded as 1.
